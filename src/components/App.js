@@ -14,6 +14,7 @@ const SearchBar = () => {
       console.error('Erreur lors de la recherche:', error);
     }
   };
+  
 
   return (
     <div>
